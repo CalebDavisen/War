@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\bin\Debug\War_Davidsen.exe.config
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\bin\Debug\War_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\bin\Debug\War_Davidsen.pdb
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.csproj.AssemblyReference.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.Form1.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.Properties.Resources.resources
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.exe
+\\et-fileserver\students\2024\calebdavidsen24\Desktop\Developing_Desktop_Applications\War_Davidsen\obj\Debug\War_Davidsen.pdb
