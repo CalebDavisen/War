@@ -1,6 +1,7 @@
 # War
 
 **Discription**
+
 This is a very simple GUI game based on the popular card game WAR.
 
 **Instructions**
